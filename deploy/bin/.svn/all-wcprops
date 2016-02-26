@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/QLExpress/!svn/ver/214/trunk/deploy/bin
+END
+cp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/QLExpress/!svn/ver/214/trunk/deploy/bin/cp.bat
+END
+QLExpress.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/QLExpress/!svn/ver/214/trunk/deploy/bin/QLExpress.bat
+END

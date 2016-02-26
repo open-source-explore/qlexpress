@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/QLExpress/!svn/ver/258/trunk/src/main/java/com/ql/util/express/parse
+END
+ExpressNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/QLExpress/!svn/ver/247/trunk/src/main/java/com/ql/util/express/parse/ExpressNode.java
+END
+NodeTypeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/QLExpress/!svn/ver/252/trunk/src/main/java/com/ql/util/express/parse/NodeTypeManager.java
+END
+KeyWordDefine4SQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/QLExpress/!svn/ver/255/trunk/src/main/java/com/ql/util/express/parse/KeyWordDefine4SQL.java
+END
+ExpressParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/QLExpress/!svn/ver/258/trunk/src/main/java/com/ql/util/express/parse/ExpressParse.java
+END
+ExpressPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/QLExpress/!svn/ver/219/trunk/src/main/java/com/ql/util/express/parse/ExpressPackage.java
+END
+KeyWordDefine4Java.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/QLExpress/!svn/ver/250/trunk/src/main/java/com/ql/util/express/parse/KeyWordDefine4Java.java
+END
+NodeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/QLExpress/!svn/ver/249/trunk/src/main/java/com/ql/util/express/parse/NodeType.java
+END
+WordSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/QLExpress/!svn/ver/240/trunk/src/main/java/com/ql/util/express/parse/WordSplit.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/QLExpress/!svn/ver/219/trunk/src/main/java/com/ql/util/express/parse/Word.java
+END

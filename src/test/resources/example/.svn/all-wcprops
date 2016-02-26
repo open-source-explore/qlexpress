@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/QLExpress/!svn/ver/171/trunk/src/test/resources/example
+END
+approve.ql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/QLExpress/!svn/ver/171/trunk/src/test/resources/example/approve.ql
+END
+approve1.ql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/QLExpress/!svn/ver/171/trunk/src/test/resources/example/approve1.ql
+END
+approve2.ql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/QLExpress/!svn/ver/171/trunk/src/test/resources/example/approve2.ql
+END

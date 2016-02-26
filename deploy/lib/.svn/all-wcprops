@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/QLExpress/!svn/ver/214/trunk/deploy/lib
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/QLExpress/!svn/ver/214/trunk/deploy/lib/commons-lang-2.4.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/QLExpress/!svn/ver/214/trunk/deploy/lib/commons-logging-1.1.1.jar
+END
+commons-beanutils-1.8.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/QLExpress/!svn/ver/214/trunk/deploy/lib/commons-beanutils-1.8.2.jar
+END

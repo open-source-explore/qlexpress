@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/QLExpress/!svn/ver/292/trunk/src/test/resources
+END
+functiondef.ql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/QLExpress/!svn/ver/58/trunk/src/test/resources/functiondef.ql
+END
+main.ql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/QLExpress/!svn/ver/59/trunk/src/test/resources/main.ql
+END
+rating.ql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/QLExpress/!svn/ver/69/trunk/src/test/resources/rating.ql
+END
+includeMacro.ql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/QLExpress/!svn/ver/228/trunk/src/test/resources/includeMacro.ql
+END
+ratingWithProperty.ql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/QLExpress/!svn/ver/74/trunk/src/test/resources/ratingWithProperty.ql
+END
+includeRoot.ql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/QLExpress/!svn/ver/228/trunk/src/test/resources/includeRoot.ql
+END
+includeFunction.ql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/QLExpress/!svn/ver/228/trunk/src/test/resources/includeFunction.ql
+END
+Test.ql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/QLExpress/!svn/ver/143/trunk/src/test/resources/Test.ql
+END
+TestFunctionParamerType.ql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/QLExpress/!svn/ver/221/trunk/src/test/resources/TestFunctionParamerType.ql
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/QLExpress/!svn/ver/55/trunk/src/test/resources/log4j.properties
+END
+spring-express-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/QLExpress/!svn/ver/292/trunk/src/test/resources/spring-express-config.xml
+END

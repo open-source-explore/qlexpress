@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/QLExpress/!svn/ver/279/trunk/src/test/java/com/ql/util/express/test/rating
+END
+RatingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/QLExpress/!svn/ver/228/trunk/src/test/java/com/ql/util/express/test/rating/RatingTest.java
+END
+RatingWithPropertyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/QLExpress/!svn/ver/228/trunk/src/test/java/com/ql/util/express/test/rating/RatingWithPropertyTest.java
+END
+SubjectMananger.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/QLExpress/!svn/ver/98/trunk/src/test/java/com/ql/util/express/test/rating/SubjectMananger.java
+END
+SujectOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/QLExpress/!svn/ver/279/trunk/src/test/java/com/ql/util/express/test/rating/SujectOperator.java
+END
+SubjectValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/QLExpress/!svn/ver/68/trunk/src/test/java/com/ql/util/express/test/rating/SubjectValue.java
+END

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/QLExpress/!svn/ver/306/trunk/src/test/java/com/ql/util/express/test
+END
+CallWithNullParameterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/QLExpress/!svn/ver/215/trunk/src/test/java/com/ql/util/express/test/CallWithNullParameterTest.java
+END
+IsAssignableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/QLExpress/!svn/ver/140/trunk/src/test/java/com/ql/util/express/test/IsAssignableTest.java
+END
+HTMLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/QLExpress/!svn/ver/140/trunk/src/test/java/com/ql/util/express/test/HTMLTest.java
+END
+ObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/QLExpress/!svn/ver/122/trunk/src/test/java/com/ql/util/express/test/ObjectTest.java
+END
+InTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/QLExpress/!svn/ver/265/trunk/src/test/java/com/ql/util/express/test/InTest.java
+END
+TestSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/QLExpress/!svn/ver/300/trunk/src/test/java/com/ql/util/express/test/TestSerializable.java
+END
+NumberComputerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/QLExpress/!svn/ver/148/trunk/src/test/java/com/ql/util/express/test/NumberComputerTest.java
+END
+OperatorExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/QLExpress/!svn/ver/140/trunk/src/test/java/com/ql/util/express/test/OperatorExample.java
+END
+SpringConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/QLExpress/!svn/ver/2/trunk/src/test/java/com/ql/util/express/test/SpringConfig.xml
+END
+GetExpressAttrNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/QLExpress/!svn/ver/180/trunk/src/test/java/com/ql/util/express/test/GetExpressAttrNamesTest.java
+END
+ImportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/QLExpress/!svn/ver/140/trunk/src/test/java/com/ql/util/express/test/ImportTest.java
+END
+ExpressContextExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/QLExpress/!svn/ver/16/trunk/src/test/java/com/ql/util/express/test/ExpressContextExample.java
+END
+ExpressCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/QLExpress/!svn/ver/270/trunk/src/test/java/com/ql/util/express/test/ExpressCacheTest.java
+END
+TestMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/QLExpress/!svn/ver/140/trunk/src/test/java/com/ql/util/express/test/TestMap.java
+END
+ArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/QLExpress/!svn/ver/196/trunk/src/test/java/com/ql/util/express/test/ArrayTest.java
+END
+RunExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/QLExpress/!svn/ver/280/trunk/src/test/java/com/ql/util/express/test/RunExample.java
+END
+AClassDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/QLExpress/!svn/ver/235/trunk/src/test/java/com/ql/util/express/test/AClassDefine.java
+END
+BeanExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/QLExpress/!svn/ver/306/trunk/src/test/java/com/ql/util/express/test/BeanExample.java
+END
+VarAreaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/QLExpress/!svn/ver/246/trunk/src/test/java/com/ql/util/express/test/VarAreaTest.java
+END
+ForFlowFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/QLExpress/!svn/ver/140/trunk/src/test/java/com/ql/util/express/test/ForFlowFunctionTest.java
+END
+AddMacroDefineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/QLExpress/!svn/ver/185/trunk/src/test/java/com/ql/util/express/test/AddMacroDefineTest.java
+END
+DemoShow.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/QLExpress/!svn/ver/305/trunk/src/test/java/com/ql/util/express/test/DemoShow.java
+END
+ReplaceOperatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/QLExpress/!svn/ver/306/trunk/src/test/java/com/ql/util/express/test/ReplaceOperatorTest.java
+END
+SubtractTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/QLExpress/!svn/ver/140/trunk/src/test/java/com/ql/util/express/test/SubtractTest.java
+END
+ExpressRemoteCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/QLExpress/!svn/ver/264/trunk/src/test/java/com/ql/util/express/test/ExpressRemoteCacheTest.java
+END
+ExpressTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/QLExpress/!svn/ver/294/trunk/src/test/java/com/ql/util/express/test/ExpressTest.java
+END
+ObjectBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/QLExpress/!svn/ver/121/trunk/src/test/java/com/ql/util/express/test/ObjectBean.java
+END
+ExportDefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/QLExpress/!svn/ver/140/trunk/src/test/java/com/ql/util/express/test/ExportDefine.java
+END
+NewExpressTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/QLExpress/!svn/ver/259/trunk/src/test/java/com/ql/util/express/test/NewExpressTest.java
+END
+ATempTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/QLExpress/!svn/ver/228/trunk/src/test/java/com/ql/util/express/test/ATempTest.java
+END
+OpCallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/QLExpress/!svn/ver/246/trunk/src/test/java/com/ql/util/express/test/OpCallTest.java
+END
+LoadExpressFromFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/QLExpress/!svn/ver/228/trunk/src/test/java/com/ql/util/express/test/LoadExpressFromFileTest.java
+END
+LoveOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/QLExpress/!svn/ver/98/trunk/src/test/java/com/ql/util/express/test/LoveOperator.java
+END
+FunctionDescTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/QLExpress/!svn/ver/306/trunk/src/test/java/com/ql/util/express/test/FunctionDescTest.java
+END
+BeanExampleChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/QLExpress/!svn/ver/25/trunk/src/test/java/com/ql/util/express/test/BeanExampleChild.java
+END
+MyLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/QLExpress/!svn/ver/53/trunk/src/test/java/com/ql/util/express/test/MyLog.java
+END
+DongtaiFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/QLExpress/!svn/ver/228/trunk/src/test/java/com/ql/util/express/test/DongtaiFieldTest.java
+END
+DefineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/QLExpress/!svn/ver/248/trunk/src/test/java/com/ql/util/express/test/DefineTest.java
+END
+MethodInvokeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/QLExpress/!svn/ver/291/trunk/src/test/java/com/ql/util/express/test/MethodInvokeTest.java
+END
+SpringTest.java.example
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/QLExpress/!svn/ver/2/trunk/src/test/java/com/ql/util/express/test/SpringTest.java.example
+END
+IfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/QLExpress/!svn/ver/140/trunk/src/test/java/com/ql/util/express/test/IfTest.java
+END
