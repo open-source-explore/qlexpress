@@ -6,14 +6,14 @@ import com.ql.util.express.OperateData;
 import com.ql.util.express.instruction.OperateDataCacheManager;
 
 public class OperatorCast extends OperatorBase {
-	public OperatorCast(String aName) {
-		this.name = aName;
-	}
+    public OperatorCast(String aName) {
+        this.name = aName;
+    }
 
-	public OperateData executeInner(InstructionSetContext parent, OperateData[] list) throws Exception {
-		Class<?> tmpClass = (Class<?>) list[0].getObject(parent);
-		Object castObj = ExpressUtil.castObject(list[1].getObject(parent), tmpClass,true);
-		OperateData result = OperateDataCacheManager.fetchOperateData(castObj,tmpClass);
-		return result;
-	}
+    public OperateData executeInner(InstructionSetContext parent, OperateData[] list) throws Exception {
+        Class<?> tmpClass = (Class<?>) list[0].getObject(parent);
+        Object castObj = ExpressUtil.castObject(list[1].getObject(parent), tmpClass, true);
+        OperateData result = OperateDataCacheManager.fetchOperateData(castObj, tmpClass);
+        return result;
+    }
 }

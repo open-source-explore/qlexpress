@@ -8,45 +8,45 @@ import com.ql.util.express.instruction.opdata.OperateDataVirClass;
 import java.util.List;
 
 public class InstructionNewVirClass extends Instruction {
-	private static final long serialVersionUID = -4174411242319009814L;
-	String className;
-	int opDataNumber;
+    private static final long serialVersionUID = -4174411242319009814L;
+    String className;
+    int opDataNumber;
 
-	public InstructionNewVirClass(String name, int aOpDataNumber) {
-		this.className = name;
-		this.opDataNumber = aOpDataNumber;
-	}
+    public InstructionNewVirClass(String name, int aOpDataNumber) {
+        this.className = name;
+        this.opDataNumber = aOpDataNumber;
+    }
 
-	public void execute(RunEnvironment environment, List<String> errorList)
-			throws Exception {
-		OperateData[] parameters = environment.popArray(
-				environment.getContext(), this.opDataNumber);
-		if (environment.isTrace() && log.isDebugEnabled()) {
-			String str = "new VClass(";
-			for (int i = 0; i < parameters.length; i++) {
-				if (i > 0) {
-					str = str + ",";
-				}
-				if (parameters[i] instanceof OperateDataAttr) {
-					str = str + parameters[i] + ":"
-							+ parameters[i].getObject(environment.getContext());
-				} else {
-					str = str + parameters[i];
-				}
-			}
-			str = str + ")";
-			log.debug(str);
-		}
-		OperateDataVirClass result = new OperateDataVirClass(className);
-		environment.push(result);
-		environment.programPointAddOne();
-		result.initialInstance(environment.getContext(), parameters, errorList,
-				environment.isTrace(), this.log);
-	}
+    public void execute(RunEnvironment environment, List<String> errorList)
+            throws Exception {
+        OperateData[] parameters = environment.popArray(
+                environment.getContext(), this.opDataNumber);
+        if (environment.isTrace() && log.isDebugEnabled()) {
+            String str = "new VClass(";
+            for (int i = 0; i < parameters.length; i++) {
+                if (i > 0) {
+                    str = str + ",";
+                }
+                if (parameters[i] instanceof OperateDataAttr) {
+                    str = str + parameters[i] + ":"
+                            + parameters[i].getObject(environment.getContext());
+                } else {
+                    str = str + parameters[i];
+                }
+            }
+            str = str + ")";
+            log.debug(str);
+        }
+        OperateDataVirClass result = new OperateDataVirClass(className);
+        environment.push(result);
+        environment.programPointAddOne();
+        result.initialInstance(environment.getContext(), parameters, errorList,
+                environment.isTrace(), this.log);
+    }
 
-	public String toString() {
-		return "new VClass[" + this.className + "] OPNUMBER["
-				+ this.opDataNumber + "]";
-	}
+    public String toString() {
+        return "new VClass[" + this.className + "] OPNUMBER["
+                + this.opDataNumber + "]";
+    }
 
 }

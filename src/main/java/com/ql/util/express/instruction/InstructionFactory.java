@@ -9,21 +9,22 @@ import java.util.Map;
 import java.util.Stack;
 
 public abstract class InstructionFactory {
-	private static Map<String,InstructionFactory> instructionFactory = new HashMap<String,InstructionFactory>();
+    private static Map<String, InstructionFactory> instructionFactory = new HashMap<String, InstructionFactory>();
 
-	public static InstructionFactory getInstructionFactory(String factory) {
-		try {
-			InstructionFactory result = instructionFactory.get(factory);
-			if (result == null) {
-				result = (InstructionFactory) Class.forName(factory)
-						.newInstance();
-			}
-			return result;
-		} catch (Exception e) {
-			throw new RuntimeException(e);
-		}
-	}
-	public abstract boolean createInstruction(ExpressRunner aCompile,InstructionSet result,
-			Stack<ForRelBreakContinue> forStack, ExpressNode node,boolean isRoot)
-			throws Exception;
+    public static InstructionFactory getInstructionFactory(String factory) {
+        try {
+            InstructionFactory result = instructionFactory.get(factory);
+            if (result == null) {
+                result = (InstructionFactory) Class.forName(factory)
+                        .newInstance();
+            }
+            return result;
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public abstract boolean createInstruction(ExpressRunner aCompile, InstructionSet result,
+                                              Stack<ForRelBreakContinue> forStack, ExpressNode node, boolean isRoot)
+            throws Exception;
 }

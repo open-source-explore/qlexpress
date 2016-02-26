@@ -10,18 +10,18 @@ import java.util.Stack;
 
 
 public class MethodCallInstructionFactory extends InstructionFactory {
-	public boolean createInstruction(ExpressRunner aCompile,
-			InstructionSet result, Stack<ForRelBreakContinue> forStack,
-			ExpressNode node, boolean isRoot) throws Exception {
-		boolean returnVal = false;
-		ExpressNode[] children = node.getChildren();
-		for (int i = 0; i < children.length; i++) {
-			boolean tmpHas = aCompile.createInstructionSetPrivate(result,forStack, children[i], false);
-			returnVal = returnVal || tmpHas;
-		}
-		OperatorBase op = aCompile.getOperatorFactory().newInstance(node);
-		result.addInstruction(new InstructionOperator(op, children.length));
-		return returnVal;
-	}
+    public boolean createInstruction(ExpressRunner aCompile,
+                                     InstructionSet result, Stack<ForRelBreakContinue> forStack,
+                                     ExpressNode node, boolean isRoot) throws Exception {
+        boolean returnVal = false;
+        ExpressNode[] children = node.getChildren();
+        for (int i = 0; i < children.length; i++) {
+            boolean tmpHas = aCompile.createInstructionSetPrivate(result, forStack, children[i], false);
+            returnVal = returnVal || tmpHas;
+        }
+        OperatorBase op = aCompile.getOperatorFactory().newInstance(node);
+        result.addInstruction(new InstructionOperator(op, children.length));
+        return returnVal;
+    }
 
 }

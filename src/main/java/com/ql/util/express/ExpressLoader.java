@@ -34,8 +34,7 @@ public class ExpressLoader {
         }
     }
 
-    public InstructionSet parseInstructionSet(String expressName,
-                                              String expressString) throws Exception {
+    public InstructionSet parseInstructionSet(String expressName, String expressString) throws Exception {
         InstructionSet parseResult = null;
         if (expressInstructionSetCache.containsKey(expressName)) {
             throw new Exception("表达式定义重复：" + expressName);

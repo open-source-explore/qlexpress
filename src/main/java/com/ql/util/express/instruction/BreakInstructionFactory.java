@@ -7,14 +7,14 @@ import com.ql.util.express.parse.ExpressNode;
 
 import java.util.Stack;
 
-public class BreakInstructionFactory extends  InstructionFactory {
-	public boolean createInstruction(ExpressRunner aCompile,InstructionSet result,
-			Stack<ForRelBreakContinue> forStack, ExpressNode node,boolean isRoot)
-			throws Exception {		
-		InstructionGoTo breakInstruction = new InstructionGoTo(result.getCurrentPoint()+1);		
-		breakInstruction.name = "break";
-		forStack.peek().breakList.add(breakInstruction);
-		result.addInstruction(breakInstruction);
-		return false;
-	}
+public class BreakInstructionFactory extends InstructionFactory {
+    public boolean createInstruction(ExpressRunner aCompile, InstructionSet result,
+                                     Stack<ForRelBreakContinue> forStack, ExpressNode node, boolean isRoot)
+            throws Exception {
+        InstructionGoTo breakInstruction = new InstructionGoTo(result.getCurrentPoint() + 1);
+        breakInstruction.name = "break";
+        forStack.peek().breakList.add(breakInstruction);
+        result.addInstruction(breakInstruction);
+        return false;
+    }
 }
