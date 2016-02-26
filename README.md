@@ -1,3 +1,3 @@
 # qlexpress
 
-¿¥‘¥£∫http://code.taobao.org/p/QLExpress/wiki/index/
+Êù•Ê∫êÔºöhttp://code.taobao.org/p/QLExpress/wiki/index/
